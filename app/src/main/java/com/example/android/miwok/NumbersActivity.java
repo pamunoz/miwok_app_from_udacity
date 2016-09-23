@@ -20,21 +20,24 @@ public class NumbersActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_numbers);
 
-
-
-
         // Create an array of words
         String[] arrayWords = {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"};
 
-
         // Create an ArrayList from the array words
-        ArrayList<String> words = new ArrayList<>();
+        ArrayList<Word> words = new ArrayList<>();
 
-        for (String word : arrayWords) {
-            words.add(word);
-        }
+        words.add(new Word("one", "lutti"));
+        words.add(new Word("tow", "otiiko"));
+        words.add(new Word("three", "tolookosu"));
+        words.add(new Word("four", "oyyisa"));
+        words.add(new Word("five", "massokka"));
+        words.add(new Word("six", "temmokka"));
+        words.add(new Word("seven", "kenekaku"));
+        words.add(new Word("eight", "kawinta"));
+        words.add(new Word("nine", "wo'e"));
+        words.add(new Word("ten", "na'aacha"));
 
-        ArrayAdapter<String> itemsAdapter = new ArrayAdapter<String>(this, R.layout.list_item, words);
+        ArrayAdapter<Word> itemsAdapter = new ArrayAdapter<>(this, R.layout.list_item, words);
 
         ListView listView = (ListView) findViewById(R.id.list);
 
