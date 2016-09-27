@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="category_colors">Colores</string>
+    <string name="category_family">Familia</string>
+    <string name="category_numbers">Numeros</string>
+    <string name="category_phrases">Frases</string>
+    <string name="color_black">negro</string>
+    <string name="color_brown">Café</string>
+    <string name="color_dusty_yellow">amarillo polvoso</string>
+    <string name="color_gray">gris</string>
+    <string name="color_green">verde</string>
+    <string name="color_mustard_yellow">amarillo mostaza</string>
+    <string name="color_red">rojo</string>
+    <string name="color_white">blanco</string>
+    <string name="family_daughter">hija</string>
+    <string name="family_father">papá</string>
+    <string name="family_grandfather">abuelo</string>
+    <string name="family_grandmother">abuela</string>
+    <string name="family_mother">mamá</string>
+    <string name="family_older_brother">hermano mayor</string>
+    <string name="family_older_sister">hermana mayor</string>
+    <string name="family_son">hijo</string>
+    <string name="family_younger_brother">hermano menor</string>
+    <string name="family_younger_sister">hermana menor</string>
+    <string name="number_eight">ocho</string>
+    <string name="number_five">cinco</string>
+    <string name="number_four">cuatro</string>
+    <string name="number_nine">nueve</string>
+    <string name="number_one">uno</string>
+    <string name="number_seven">siete</string>
+    <string name="number_six">seis</string>
+    <string name="number_ten">diez</string>
+    <string name="number_three">tres</string>
+    <string name="number_two">dos</string>
+    <string name="phrase_are_you_coming">¿Bienes?</string>
+    <string name="phrase_come_here">Ven aquí.</string>
+    <string name="phrase_how_are_you_feeling">¿Como te sientes?</string>
+    <string name="phrase_im_coming">Ya voy.</string>
+    <string name="phrase_im_feeling_good">Me siento bién.</string>
+    <string name="phrase_lets_go">Bamos.</string>
+    <string name="phrase_my_name_is">Mi nombre es...</string>
+    <string name="phrase_what_is_your_name">¿Cual es tu nombre?</string>
+    <string name="phrase_where_are_you_going">¿A dónde vas?</string>
+    <string name="phrase_yes_im_coming">\"Si, ya voy.\"</string>
+</resources>
